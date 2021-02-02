@@ -2,6 +2,10 @@
 
 Gsap animation example that uses HTML, CSS and GSAP TimelineMax() to animate elements.
 
+## Demo
+
+![Game Process](https://github.com/MaybelOMW/GSAP-ReceiveMail-FadeIn/blob/main/Demo/demo.gif)
+
 ## Installation
 
 Download the code in this repository.
